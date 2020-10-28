@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=demoWebGL
+Exec=webapp-container --app-id="demo.vin4ter" $@ www/index.html
+Icon=assets/puzzle.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
